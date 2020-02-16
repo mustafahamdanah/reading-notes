@@ -117,9 +117,9 @@ specifies Arial as the preferred typeface.
 
 `<link>` 
 -  and it lives inside the `<head>` element. It should use three attributes:
-> href
-> type
-> rel
+1. href
+2. type
+3. rel
 
 ### Using Internal css
 
