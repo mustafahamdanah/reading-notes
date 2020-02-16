@@ -1,4 +1,3 @@
-
 ## Code 201 Reading Notes
 
 ### Introduction
@@ -10,8 +9,8 @@
 
 pages  |  link
 ---------- | ---------
- *home* | [link 1]()
- Read 01 | [link 2]()
+ **home** | [link 1](https://mustafahamdanah.github.io/reading-notes/)
+ Read 01 | [link 2](https://mustafahamdanah.github.io/reading-notes/Read%2001-Introductory%20HTML%20and%20JavaScript)
  Read 02 | [link 3]()
  Read 03 | [link 4]()
  Read 04 | [link 5]()
