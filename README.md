@@ -9,10 +9,10 @@
 
 pages  |  link
 ---------- | ---------
- **home** | [link 1](https://mustafahamdanah.github.io/reading-notes/)
- Read 01 | [link 2](https://mustafahamdanah.github.io/reading-notes/Read%2001-Introductory%20HTML%20and%20JavaScript)
- Read 02 | [link 3](https://mustafahamdanah.github.io/reading-notes/class-02)
- Read 03 | [link 4]()
+ **home**  | [press](https://mustafahamdanah.github.io/reading-notes/)
+ class-01  | [Read 01]()
+ class-02  | [Read 02](https://mustafahamdanah.github.io/reading-notes/class-02)
+ class-03 | [Read 03](https://mustafahamdanah.github.io/reading-notes/class-03)
  Read 04 | [link 5]()
  Read 05 | [link 6]()
  Read 06 | [link 7]()
