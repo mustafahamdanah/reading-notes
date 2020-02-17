@@ -9,8 +9,8 @@
 
 pages  |  link
 ---------- | ---------
- **home**  | [press](https://mustafahamdanah.github.io/reading-notes/)
- class-01  | [Read 01]()
+ **home**  | [press here](https://mustafahamdanah.github.io/reading-notes/)
+ class-01  | [Read 01](https://mustafahamdanah.github.io/reading-notes/class-01)
  class-02  | [Read 02](https://mustafahamdanah.github.io/reading-notes/class-02)
  class-03 | [Read 03](https://mustafahamdanah.github.io/reading-notes/class-03)
  Read 04 | [link 5]()
