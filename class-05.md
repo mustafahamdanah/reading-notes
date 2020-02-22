@@ -55,7 +55,7 @@ to allow web page authors to add a caption to an image.
 
 ### Specifying Typefaces : font-family
 
-### Size of Type font-size
+### Size of Type : font-size
 
 ### Units of Type Size : Pixels, Percentages,Ems
 
