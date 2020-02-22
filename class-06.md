@@ -69,11 +69,11 @@ which is a collection of nodes.
 ### LOOPING THROUGH A NODELIST
 - example:
 
-`var hotltems = document .querySelectorAll ('li.hot') ; `     ` Store Nodel ist in array`
-`if (hotltems.length > O) {    `                               `If it contains items`
-`for (var i=O; i<hotltems.length; i++) {  `                     `loop through each items`
-`hotltems[i] .className = 'cool'; `                   `Change val ue of class attribute` 
-`{`
+                            var hotltems = document .querySelectorAll ('li.hot') ;      
+                            if (hotltems.length > O) {                                   
+                            for (var i=O; i<hotltems.length; i++) {                      
+                            hotltems[i] .className = 'cool';                
+                            {
 
 ### TRAVERSING THE DOM
 
@@ -132,9 +132,7 @@ you need to be aware of Cross-Site Scripting Attacks or XSS; otherwise,
 an attacker could gain access to your users' accounts. 
 
 
-learn about object and how it work and contain set of variables and functions to create 
-amodel , learn about the dom javascript how can accsess and update the contents of a web page 
-and learn about DOM tree, how can select elements and change it.
+
 
 
 

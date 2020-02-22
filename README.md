@@ -15,7 +15,7 @@ pages  |  link
  class-03 | [Read 03](https://mustafahamdanah.github.io/reading-notes/class-03)
  class-04 | [Read 04](https://mustafahamdanah.github.io/reading-notes/class-04)
  class-05 | [Read 05](https://mustafahamdanah.github.io/reading-notes/class-05)
- Read 06 | [link 7]()
+ class-06 | [read 06](https://mustafahamdanah.github.io/reading-notes/class-06)
  Read 07 | [link 8]()
  Read 08 | [link 9]()
  Read 09 | [link 10]()
